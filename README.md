@@ -8,7 +8,7 @@ Here's the simplest example usage:
 ```php
 <?php
 
-  	require_once(APPPATH . '/libraries/prisoners_dilemma.php');
+  	require_once('/path/to/prisoners_dilemma.php');
 
 	$prisoners_dilemma = new Prisoners_dilemma();
     
