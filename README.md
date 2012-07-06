@@ -10,11 +10,11 @@ Here's the simplest example usage:
 
   	require_once(APPPATH . '/libraries/prisoners_dilemma.php');
 
-		$prisoners_dilemma = new Prisoners_dilemma();
+	$prisoners_dilemma = new Prisoners_dilemma();
     
-    $info = $prisoners_dilemma->run(25000, 20);
+	$info = $prisoners_dilemma->run(25000, 20);
 
-  	die(print_r($info));
+	die(print_r($info));
 
 ?>
 ```
