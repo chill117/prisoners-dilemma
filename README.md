@@ -2,6 +2,8 @@
 
 To satisfy my own curiosity, I coded an Iterated Prisoner's Dilemma in PHP. I programmed over a dozen different strategies, and pitted them against one another.
 
+You can see my results here: http://degreesofzero.com/article/38
+
 For info about the Prisoner's Dilemma: http://en.wikipedia.org/wiki/Prisoner's_dilemma
 
 ## Example Usage
